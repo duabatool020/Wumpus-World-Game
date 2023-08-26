@@ -23,7 +23,7 @@ successfully<br>
 Print current position of agent as well as state after each repetition. You may find it useful
 to use input() function to prompt user after every repetition so that the output doesn‘t flash
 by too fast and can be viewed by us.<br>
-
+<img align="centre" width=400 src="https://github.com/duabatool020/Wumpus-World-Game/blob/main/GameBoard.png"><br>
 At some stage, if needed, you may also use the built-in random module to randomise the order
 in which you access adjacent block percepts. The random.shuffle (list_as_an_argument)
 function might come in handy.
